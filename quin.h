@@ -44,9 +44,7 @@ SOFTWARE.
 /// You can just copy this file nearly to your code and include.
 ///
 /// ## Example
-/// ~~~
-/// soon
-/// ~~~
+/// see examples here: ![](https://github.com/valera-vorona/quin/tree/main/example)
 ///
 */
 
